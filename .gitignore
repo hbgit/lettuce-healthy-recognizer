@@ -1,0 +1,13 @@
+videos/
+disease-lettuce-4/
+disease-lettuce-4_rebalanced/
+
+treinamento_lettuce_results/
+runs/
+models/
+*.pt
+*.pth
+
+
+
+venv/
